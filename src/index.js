@@ -8,7 +8,7 @@ let subtract = 0;
 let position_set = 0;
 
 init();
-
+///
 function init() {
   $("form").submit(addReview);
   fstore
